@@ -18,7 +18,7 @@ et de vérifier en cas d'absence d'un personnel
   
   </tr>
    <tr>
-    <td style="margin-right: 10px;"><img src="https://github.com/abir739/gestion-staff-medical/blob/gestion-staff-medical/Interfaces/g.png" alt="Screenshot 1"></td>
+    <td style="margin-right: 10px;"><img src="https://github.com/abir739/gestion-staff-medical/blob/gestion-staff-medical/Interfaces/Capture%20d%E2%80%99%C3%A9cran%202021-09-03%20214613.png" alt="Screenshot 1"></td>
     <td><img src="https://github.com/abir739/gestion-staff-medical/blob/gestion-staff-medical/Interfaces/h.png" alt="Screenshot 2"></td>
   
   </tr>
